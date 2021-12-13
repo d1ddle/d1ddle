@@ -1,8 +1,5 @@
-I am a content creator who loves to toy with obscure and outdated software, hardware, open-source software and projects. I've done quite a few of my own, my website (below) included.
-
-Stop-Motions, Lego, Films, Games, Mods, Creations, and more.
-Python, HTML, JavaScript, PHP, Content creator
-Written a few discord bots too
+Hi, my name is d1ddle
+I am a content creator and amateur software dev. Interested in AI deep learning and open-source software ranging from Game mods to Motion imitating. Python, JS, C#...
 
 Website: https://d1ddle.com
 
